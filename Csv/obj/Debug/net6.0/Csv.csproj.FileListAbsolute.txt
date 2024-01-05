@@ -1,0 +1,15 @@
+/Users/zemld/Projects/HSE/HCW23/Csv/bin/Debug/net6.0/Csv.deps.json
+/Users/zemld/Projects/HSE/HCW23/Csv/bin/Debug/net6.0/Csv.dll
+/Users/zemld/Projects/HSE/HCW23/Csv/bin/Debug/net6.0/Csv.pdb
+/Users/zemld/Projects/HSE/HCW23/Csv/obj/Debug/net6.0/Csv.csproj.AssemblyReference.cache
+/Users/zemld/Projects/HSE/HCW23/Csv/obj/Debug/net6.0/Csv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zemld/Projects/HSE/HCW23/Csv/obj/Debug/net6.0/Csv.AssemblyInfoInputs.cache
+/Users/zemld/Projects/HSE/HCW23/Csv/obj/Debug/net6.0/Csv.AssemblyInfo.cs
+/Users/zemld/Projects/HSE/HCW23/Csv/obj/Debug/net6.0/Csv.csproj.CoreCompileInputs.cache
+/Users/zemld/Projects/HSE/HCW23/Csv/obj/Debug/net6.0/Csv.dll
+/Users/zemld/Projects/HSE/HCW23/Csv/obj/Debug/net6.0/refint/Csv.dll
+/Users/zemld/Projects/HSE/HCW23/Csv/obj/Debug/net6.0/Csv.pdb
+/Users/zemld/Projects/HSE/HCW23/Csv/obj/Debug/net6.0/ref/Csv.dll
+/Users/zemld/Projects/HSE/HCW23/Csv/bin/Debug/net6.0/PolyclinicsInfo.dll
+/Users/zemld/Projects/HSE/HCW23/Csv/bin/Debug/net6.0/PolyclinicsInfo.pdb
+/Users/zemld/Projects/HSE/HCW23/Csv/obj/Debug/net6.0/Csv.csproj.CopyComplete

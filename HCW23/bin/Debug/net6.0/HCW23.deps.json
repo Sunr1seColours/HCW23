@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HCW23/1.0.0": {
+        "dependencies": {
+          "Csv": "1.0.0",
+          "Data": "1.0.0",
+          "PolyclinicsInfo": "1.0.0"
+        },
+        "runtime": {
+          "HCW23.dll": {}
+        }
+      },
+      "Csv/1.0.0": {
+        "dependencies": {
+          "PolyclinicsInfo": "1.0.0"
+        },
+        "runtime": {
+          "Csv.dll": {}
+        }
+      },
+      "Data/1.0.0": {
+        "dependencies": {
+          "PolyclinicsInfo": "1.0.0"
+        },
+        "runtime": {
+          "Data.dll": {}
+        }
+      },
+      "PolyclinicsInfo/1.0.0": {
+        "runtime": {
+          "PolyclinicsInfo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HCW23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Csv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PolyclinicsInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

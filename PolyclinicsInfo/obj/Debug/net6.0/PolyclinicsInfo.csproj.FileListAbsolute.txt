@@ -1,0 +1,12 @@
+/Users/zemld/Projects/HSE/HCW23/PolyclinicsInfo/bin/Debug/net6.0/PolyclinicsInfo.deps.json
+/Users/zemld/Projects/HSE/HCW23/PolyclinicsInfo/bin/Debug/net6.0/PolyclinicsInfo.dll
+/Users/zemld/Projects/HSE/HCW23/PolyclinicsInfo/bin/Debug/net6.0/PolyclinicsInfo.pdb
+/Users/zemld/Projects/HSE/HCW23/PolyclinicsInfo/obj/Debug/net6.0/PolyclinicsInfo.csproj.AssemblyReference.cache
+/Users/zemld/Projects/HSE/HCW23/PolyclinicsInfo/obj/Debug/net6.0/PolyclinicsInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zemld/Projects/HSE/HCW23/PolyclinicsInfo/obj/Debug/net6.0/PolyclinicsInfo.AssemblyInfoInputs.cache
+/Users/zemld/Projects/HSE/HCW23/PolyclinicsInfo/obj/Debug/net6.0/PolyclinicsInfo.AssemblyInfo.cs
+/Users/zemld/Projects/HSE/HCW23/PolyclinicsInfo/obj/Debug/net6.0/PolyclinicsInfo.csproj.CoreCompileInputs.cache
+/Users/zemld/Projects/HSE/HCW23/PolyclinicsInfo/obj/Debug/net6.0/PolyclinicsInfo.dll
+/Users/zemld/Projects/HSE/HCW23/PolyclinicsInfo/obj/Debug/net6.0/refint/PolyclinicsInfo.dll
+/Users/zemld/Projects/HSE/HCW23/PolyclinicsInfo/obj/Debug/net6.0/PolyclinicsInfo.pdb
+/Users/zemld/Projects/HSE/HCW23/PolyclinicsInfo/obj/Debug/net6.0/ref/PolyclinicsInfo.dll
